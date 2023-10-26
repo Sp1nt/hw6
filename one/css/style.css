@@ -1,0 +1,47 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+p{
+  text-align: center;
+  margin-top: 25px;
+  
+}
+
+.container
+{
+  font-weight: bold;
+  max-width: 80%;
+  margin: auto;
+}
+
+.heading
+{
+  margin: 25px;
+  text-align: center;
+}
+
+.menu-info
+{
+  margin: 15px;
+  padding: 25px;
+  border-radius: 15px;
+  border: 1px solid #4b4b4b;
+  float: left;
+}
+
+.menu-info:hover
+{
+  background-color: #4b4b4b14;
+}
+
+.no-float
+{
+  clear: left;
+}
+
+
